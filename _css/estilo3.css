@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+#container{
+    width: 1050px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+#banner{
+    width: 80%;
+    height: 187px;
+    background: #000;
+    color: white;
+}
+
+#link{
+    width: 150px;
+    height: 800px;
+    background: red;
+}
+
+#texto{
+    width: 690px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 150px;
+    background: blue;
+}
+
+#footer{
+    width: 79.5%;
+    height: 50px;
+    margin: 0 auto 200;
+    text-align: center;
+    border: solid;
+    color: red;
+}
+
+#imagem{
+    width: 100%;
+    height: 100%;
+}
+
+#video{
+}

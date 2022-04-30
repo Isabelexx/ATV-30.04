@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#imagem{
+    position: absolute;
+    left: 30px;
+    top: 60px;
+    width: 300px;
+    height: 200px;
+}
+P{
+    color:aquamarine;
+    font-size: 80px;
+}
+#paragrafo{
+    color:blueviolet;
+    font-size: 200px;
+}
