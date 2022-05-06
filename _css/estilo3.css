@@ -32,9 +32,9 @@
 }
 
 #footer{
-    width: 79.5%;
+    width: 835px;
     height: 50px;
-    margin: 0 auto 200;
+    margin: auto -150px;
     text-align: center;
     border: solid;
     color: red;
@@ -43,7 +43,4 @@
 #imagem{
     width: 100%;
     height: 100%;
-}
-
-#video{
 }
